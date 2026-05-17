@@ -1,0 +1,11 @@
+VIDEOS_DIR = "videos"
+
+CHUNKS_DIR = "video_chunks"
+
+NOTES_DIR = "notes"
+
+DEFAULT_TOP_K = 10
+
+DEFAULT_MIN_SCORE = 0.16
+
+VIDEO_PADDING = 2
