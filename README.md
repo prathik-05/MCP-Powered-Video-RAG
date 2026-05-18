@@ -233,21 +233,6 @@ The assistant preserves conversational context across queries.
 
 ---
 
-# 📸 Screenshots
-
-## Home Interface
-_Add screenshot here_
-
-## Retrieval Interface
-_Add screenshot here_
-
-## Clip Generation
-_Add screenshot here_
-
-## Notes Generation
-_Add screenshot here_
-
----
 
 # 🔮 Future Improvements
 
